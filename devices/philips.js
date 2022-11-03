@@ -2733,14 +2733,14 @@ module.exports = [
         zigbeeModel: ['LCD007'],
         model: '579573',
         vendor: 'Philips',
-        description: 'Hue White and Color Ambiance Slim Downlight 6"',
+        description: 'Hue white and color ambiance slim downlight 6"',
         extend: hueExtend.light_onoff_brightness_colortemp_color({colorTempRange: [153, 500]}),
     },
     {
         zigbeeModel: ['LWE004'],
         model: '8719514302235',
         vendor: 'Philips',
-        description: 'Hue White Filament Bulb E14',
+        description: 'Hue White filament bulb E14',
         extend: hueExtend.light_onoff_brightness(),
     },
     {
